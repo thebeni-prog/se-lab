@@ -1,3 +1,5 @@
+[![CodeQL Advanced](https://github.com/thebeni-prog/se-lab/actions/workflows/codeql.yml/badge.svg)](https://github.com/thebeni-prog/se-lab/actions/workflows/codeql.yml)
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
