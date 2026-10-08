@@ -1,4 +1,4 @@
-[![CodeQL Advanced](https://github.com/thebeni-prog/se-lab/actions/workflows/codeql.yml/badge.svg)](https://github.com/thebeni-prog/se-lab/actions/workflows/codeql.yml)
+[![Maven build](https://github.com/thebeni-prog/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/thebeni-prog/se-lab/actions/workflows/maven.yml)
 
 # SE Spaceship
 
